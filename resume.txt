@@ -1,35 +1,34 @@
 Jackson National
 Data Science and AI Support Associate
-    • creating and implementing program to parse large amount of nondelimited data to a dataframe
-    • creating explorative analytics tool used for compliance and regulatory purposes
-    • Working with machine learning, spark, and databricks
-    • Creating market basket analysis in rstudio that takes order of events into consideration
+creating and implementing program to parse large amount of nondelimited data to a dataframe
+creating explorative analytics tool used for compliance and regulatory purposes
+Working with machine learning, spark, and databricks
+Creating market basket analysis in rstudio that takes order of events into consideration
 
 
 Employee Master Data
-Dart Container
-    • Creating, managing and analyzing cases in SalesForce
-    • Analyzing data and proposing process improvement solutions
-    • Troubleshooting technical errors for recruiters, providing application technical assistance to applicants and employees
-    • Establishing standard operating procedures and creating greater administrative efficiencies
-    • Benefits assistance and enrollment
-    • Offering assistance to build machine learning programs, chatbots, and automation of processes for HR groups 
+Dart ContainerCreating, managing and analyzing cases in SalesForce
+Analyzing data and proposing process improvement solutions
+Troubleshooting technical errors for recruiters, providing application technical assistance to applicants and employees
+Establishing standard operating procedures and creating greater administrative efficiencies
+Benefits assistance and enrollment
+Offering assistance to build machine learning programs, chatbots, and automation of processes for HR groups 
 
 Fair Employment Practices
-• Utilizing Excel, SAP, Success Factors to generate and create reports
-• Developing reporting solutions based on requests from within the department
-• Conducting audits
-• Analyzing hiring trends and presenting proactive solution options
-• Utilizing knowledge of Access, Excel, VBA, SQL to automate formerly manual procedures and reports
-• Creating standard reports and dashboards for Ethics cases and translating results into presentable data
-• Designing and running ad-hoc reports
-• Analyzing data and proposing process improvement solutions
-• Conducting business case analysis of hiring strategies
+Utilizing Excel, SAP, Success Factors to generate and create reports
+Developing reporting solutions based on requests from within the department
+Conducting audits
+Analyzing hiring trends and presenting proactive solution options
+Utilizing knowledge of Access, Excel, VBA, SQL to automate formerly manual procedures and reports
+Creating standard reports and dashboards for Ethics cases and translating results into presentable data
+Designing and running ad-hoc reports
+Analyzing data and proposing process improvement solutions
+Conducting business case analysis of hiring strategies
 
 Title Production Planning and Logistics
-• Database management and administration; Maintained daily reports using SQL
-• Utilized SAP, Sequel, Power BI for designing and running ad hoc reports.
-• Designed report for Traffic department to track and analyze on time and late deliveries.
-• During downtime learned VBA and SQL to more effectively maintain and repair established reports.
-• Assisted with cost benefit analysis
-• Data Analysis: Utilizing OLAP and BI to help explore potential issues and solutions
+Database management and administration; Maintained daily reports using SQL
+Utilized SAP, Sequel, Power BI for designing and running ad hoc reports.
+Designed report for Traffic department to track and analyze on time and late deliveries.
+During downtime learned VBA and SQL to more effectively maintain and repair established reports.
+Assisted with cost benefit analysis
+Data Analysis: Utilizing OLAP and BI to help explore potential issues and solutions
