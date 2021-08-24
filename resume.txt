@@ -1,4 +1,3 @@
-Jackson National
 Data Science and AI Support Associate
 creating and implementing program to parse large amount of nondelimited data to a dataframe
 creating explorative analytics tool used for compliance and regulatory purposes
@@ -7,7 +6,8 @@ Creating market basket analysis in rstudio that takes order of events into consi
 
 
 Employee Master Data
-Dart ContainerCreating, managing and analyzing cases in SalesForce
+Dart Container
+Creating, managing and analyzing cases in SalesForce
 Analyzing data and proposing process improvement solutions
 Troubleshooting technical errors for recruiters, providing application technical assistance to applicants and employees
 Establishing standard operating procedures and creating greater administrative efficiencies
@@ -25,7 +25,7 @@ Designing and running ad-hoc reports
 Analyzing data and proposing process improvement solutions
 Conducting business case analysis of hiring strategies
 
-Title Production Planning and Logistics
+Production Planning and Logistics
 Database management and administration; Maintained daily reports using SQL
 Utilized SAP, Sequel, Power BI for designing and running ad hoc reports.
 Designed report for Traffic department to track and analyze on time and late deliveries.
